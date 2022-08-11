@@ -22,3 +22,6 @@ npm run lint
 
 ### Project introduction
 Vue2实现自定义指令拖拽按钮
+
+![1660225136880](ipic\1660225136880.png)
+
